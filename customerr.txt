@@ -1,0 +1,20 @@
+NOB223;Ahmad Hashim;16 Jalan Baiduri;016-4278651;A;B;A;true;4;true;1
+OOD256;Danial Najmie;21 Bukit Mentakab;011-2341556;B;B;C;false;14;false;2
+ODB345;Nurin Huda;18 jalan Bentong;012-4789546;C;A;B;false;15;false;1
+NBQ126;Dayana Jasmin;163 Sawa1;012-4113455;D;D;C;true;20;true;2
+OPT281;Quratul Aini;10 jalan Helang;016-6712346;C;C;A;true;25;false;2
+NRB222;Zulfa Humairah;25 jalan kijang;016-8998765;B;A;D;false;11;true;1
+NYE657;Syakir Mesnan;89 jalan hamzah;019-1455671;C;C;B;true;12;false;2
+OPL101;Muhammad Hadri;56 jalan hang tuah;017-7896543;A;A;B;true;15;true;1
+NQT334;Muhammad Afiq;43 kampung sinaran;016-8974432;B;A;C;false;5;false;2
+OIA144;Danial Zaquan;32 jalan tembikai;011-6134064;A;A;A;true;1;true;1
+NSJ928;Aiman hamizan;19 Jalan palang;016-4392821;B;B;C;true;4;true;2
+OPQ938;Nurul Afiqah;61 Bukit jatuh;011-8379483;A;B;C;false;10;false;1
+OQI194;Nurin Izati;21 jalan Bengkok;013-2949646;B;A;B;false;3;false;2
+NUQ421;Muaz Kamal;10 Jalan durian;017-3893455;D;D;A;true;2;true;2
+OQW928;Salman Ali;30 jalan Biawak;013-4892346;B;C;A;true;5;false;1
+NUI283;Hafiza Humairah;90 jalan Sanjung;012-4892765;B;C;D;false;8;true;1
+NLJ182;Haykal Jasmin;69 jalan Tukam;016-9294671;C;C;C;true;2;false;2
+OPP193;Muhammad Amin;56 jalan Ikan;017-7898492;A;A;A;true;3;true;2
+NER123;Adriana Syafiqah;43 kampung Merah;016-8918394;B;A;A;false;9;false;1
+OIS087;Emmer Effendi;32 jalan Salam;013-6139482;A;B;C;true;1;true;2
